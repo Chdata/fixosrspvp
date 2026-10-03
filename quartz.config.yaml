@@ -13,12 +13,11 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
+    fontOrigin: local
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: RSChatFont
+      body: RSChatFont
+      code: Quill8
     colors:
       lightMode:
         light: "#faf8f8"
