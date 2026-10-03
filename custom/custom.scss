@@ -27,3 +27,10 @@ html:root:root:root {
   font-size: 24px;
   --font-text-size: 24px;
 }
+
+// Body text color in dark mode. Quartz uses --darkgray; quartz-themes uses
+// --text-normal.
+html:root:root:root[saved-theme="dark"] {
+  --darkgray: #e8d8a8;
+  --text-normal: #e8d8a8;
+}
