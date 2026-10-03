@@ -31,8 +31,8 @@ html:root:root:root {
 // Body text color in dark mode. Quartz uses --darkgray; quartz-themes uses
 // --text-normal.
 html:root:root:root[saved-theme="dark"] {
-  --darkgray: #ffff00;
-  --text-normal: #ffff00;
+  --darkgray: #e8d8a8;
+  --text-normal: #e8d8a8;
 }
 
 // The theme colors paragraphs with --text-muted instead of --text-normal;
