@@ -151,3 +151,31 @@
 [**Mod Ayiza** on the Wilderness:](https://youtube.com/shorts/bsOE4JfRsLY)
 
 ![[chrome_2L2myY35q6.png]]
+
+
+[Westham on "What makes OSRS PvP different from other games?" at RuneFest 2026](https://www.twitch.tv/oldschoolrs/clip/SweetEnjoyableLouseTwitchRaid-zCnYS_wvqzGL9jHD)
+**Mod Archie**:
+```
+This is a bit of a strange question, but I'd like to ask, "What is Oldschool Runescape PvP?"
+What makes it different from other games and other MMOs?
+
+Because it's very unique right? We've got PID. We've got PID swapping. We've got tick counting. We've got all these different things.
+
+I guess I might have just answered your question for you, but what is it for you?
+```
+**Westham**: 
+```
+We don't get any updates.
+```
+**Purpp**: 
+```
+You shouldn't have said that!
+```
+**Westham**: 
+```
+Yeah, that's pretty consistent! I haven't seen an update in about six years.
+```
+
+Holy damn Westham lol.
+
+I'm sorry Chris Archie. Happy Birthday bro.
