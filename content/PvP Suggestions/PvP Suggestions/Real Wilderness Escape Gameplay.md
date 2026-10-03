@@ -1,4 +1,4 @@
-I am exclusively hosting this idea in the [[FixOSRSPVP Discord]].
+I am exclusively hosting this idea in the [[FixOSRSPVP]] Discord.
 
 [Real Wilderness Escape Gameplay](https://discord.com/channels/1535766145489969246/1547115899306381402)
 

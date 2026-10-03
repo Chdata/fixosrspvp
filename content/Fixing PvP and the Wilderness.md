@@ -6,9 +6,9 @@ If you've played Oldschool Runescape at all since release, then you already know
 
 In 2026 I've set out to start a movement to see PvP fixed once and for all.
 
-## FixOSRSPvP
+## \#FixOSRSPvP
 
-We would love for you to join the #FixOSRSPVP movement.
+We would love for you to join the **\#FixOSRSPVP** movement.
 ![[FixOSRSPvP]]
 
 ## What Have Players Been Saying For The Past 10 Years?
