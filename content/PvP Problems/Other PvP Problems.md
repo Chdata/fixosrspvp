@@ -1,0 +1,7 @@
+-  The PvP Arena has its own separate set of problems and is effectively non-functional as a competitive venue or activity at all in its current state
+-  The content gap: almost all PvP content is designed around high-skill solo NH bridding or large clan warfare, leaving a near-total gap for small teams, risk-averse players, or forms of PvP that are generally easier for players to engage with, like Honor Fights.
+-  Deathdotting - standing on the exact same tile as another player after freezing them to make targeting difficult - is a widespread nuisance technique that many players dislike. Many players also do like it. This is another example of content gap. Something like a safe version of Bounty Hunter would address this problem as a way players can engage with PvP without dealing with a mechanic they don't like, without having to change the rest of PvP in the game
+-  PJ Timer mechanics have killed off singles teams, leaving no place in the game for them to enjoy PvP
+-  Various Wilderness hotspots can be monopolized by organized clans, making the Wilderness functionally inaccessible to solo players or small groups
+-  There is a measurable perception gap between how PvMers and PKers each estimate "risk" - they are not having the same conversation because they are not talking about the same numbers or situations
+-  The meta of the Wilderness is to log-out as fast as possible instead of engaging in a fight or escape gameplay.
