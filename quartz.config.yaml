@@ -13,12 +13,12 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: local
+    fontOrigin: googleFonts
+    cdnCaching: true
     typography:
-      header: RSChatFont
-      body: RSChatFont
-      code: Quill8
-      h6: 'RSChatFont; } @font-face { font-family: "RSChatFont"; src: url("/fixosrspvp/fonts/runescape_chat_font.ttf") format("truetype"); font-display: swap; } @font-face { font-family: "Quill8"; src: url("/fixosrspvp/fonts/Quill_8.woff") format("woff"); font-display: swap; } :root { --unused: 0'
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -110,6 +110,14 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      fontOrigin: local
+      title: RSChatFont
+      header: RSChatFont
+      body: RSChatFont
+      interface: RSChatFont
+      code: Quill8
+      h6: 'RSChatFont; } @font-face { font-family: "RSChatFont"; src: url("/fixosrspvp/fonts/runescape_chat_font.ttf") format("truetype"); font-display: swap; } @font-face { font-family: "Quill8"; src: url("/fixosrspvp/fonts/Quill_8.woff") format("woff"); font-display: swap; } :root { --unused: 0'
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
