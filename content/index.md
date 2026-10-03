@@ -1,4 +1,5 @@
 ---
 title: FixOSRSPvP
 ---
-![[Fixing PvP and the Wilderness]]
+Visit the main page here:
+[[Fixing PvP and the Wilderness]]
