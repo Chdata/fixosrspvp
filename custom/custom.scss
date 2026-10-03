@@ -34,3 +34,9 @@ html:root:root:root[saved-theme="dark"] {
   --darkgray: #e8d8a8;
   --text-normal: #e8d8a8;
 }
+
+// The theme colors paragraphs with --text-muted instead of --text-normal;
+// the extra :root beats its `html[saved-theme="dark"] body p` rule.
+html:root[saved-theme="dark"] body p {
+  color: var(--text-normal);
+}
