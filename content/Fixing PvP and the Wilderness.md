@@ -14,7 +14,7 @@ If you like my ideas and would like to know more about them, you can find me in 
 
 #### What Have Players Been Saying For The Past 10 Years?
 
-[[This Is What Have Players Been Saying For The Past 10 Years]]
+[[This Is What Players Have Been Saying For The Past 10 Years]]
 In Summary:
 - PvP is severely neglected compared to every other part of the game.
 - PvP isn't working.
