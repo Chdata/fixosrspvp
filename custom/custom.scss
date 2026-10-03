@@ -1,0 +1,29 @@
+// Site-wide CSS for the published site. This file is NOT managed by
+// GitHub Publish, so it survives plugin updates. deploy.yml appends it to
+// Quartz's quartz/styles/custom.scss before building.
+
+@font-face {
+  font-family: "RSChatFont";
+  src: url("/fixosrspvp/attachments/fonts/runescape_chat_font.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Quill8";
+  src: url("/fixosrspvp/attachments/fonts/quill_8.woff") format("woff");
+  font-display: swap;
+}
+
+// quartz-themes builds its font variables from these *-override variables,
+// which nothing else sets.
+:root {
+  --font-text-override: RSChatFont;
+  --font-interface-override: RSChatFont;
+  --font-monospace-override: Quill8;
+}
+
+// Extra :root repeats beat quartz-themes' `:root:root[saved-theme=...]` rule.
+html:root:root:root {
+  font-size: 24px;
+  --font-text-size: 24px;
+}
