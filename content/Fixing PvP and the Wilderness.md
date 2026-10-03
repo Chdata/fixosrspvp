@@ -28,16 +28,20 @@ In Summary:
 
 # The Core Problems of PvP (Summary)
 
+From what I understand, the PvP playerbase just wants it to be active.
+The PvM side mainly just wants to not feel forced to engage with it.
+
 1. Skill Gap problems.
 2. The majority of the playerbase is risk-averse.
 3. Most PvP has bad or heavily nerfed reward incentives.
 4. Most PvP has exceptionally bad gameplay loops or design.
 5. PvP is too complex for the playerbase to really discuss properly.
 6. There is no simple magic band-aid solution that requires minimal dev time to fix PvP.
+7. The community is divided. Everyone is just [arguing past each other](https://en.wikipedia.org/wiki/Talking_past_each_other) en masse. Literally [like this](https://youtu.be/gYH0D52fXe8).
 
 Here's my take on the discussions everyone's been having. I've played Runescape since 2004. I have over a decade of experience in designing and coding multiplayer PvP game balance.
 
-I'm in a bit of a unique spot because I love PvP, but only on a casual level. I'm a risk-averse player, so I almost completely dislike the Wilderness.
+I'm in a bit of a unique spot because I love PvP, but only on a casual level. I'm a risk-averse player, so I almost completely dislike the Wilderness. I'm a game dev hobbyist, so I can imagine ways to make it enjoyable.
   
 There isn't any singular "one problem of PvP" where if we fix that, PvP will be fixed. The truth is that PvP is a huge, complex, intertwined system with many many many major problems.  
   
@@ -55,7 +59,7 @@ I am confident that the work required to "fix PvP" is largely "one and done" wor
   
 First, let's start by acknowledging the problems.
 
-### #1 [[Risk is Not Worth the Reward]]
+## #1 [[Risk is Not Worth the Reward]]
 
 This is one of the largest single barriers to entry. Most players will never engage with the Wilderness because they don't want to risk losing their items. And those who might engage are turned away because the risk-to-reward ratio is simply not competitive with the rest of the game. Even safe PvP minigames are not rewarding enough for your time spent.
 
@@ -63,7 +67,7 @@ Generally speaking, the majority of the playerbase is risk-averse, including mys
 
 Even if you're not necessarily risk-averse, risk still represents certain startup costs, especially if you're a newer player trying to get into PvP.
 
-### #2 [[The Skill Gap is Too Large]]
+## #2 [[The Skill Gap is Too Large]]
 
 New players are fighting veterans the moment they step foot into the Wilderness, and pretty much any PvP activity for that matter.
 
@@ -71,13 +75,14 @@ The skill floor is too high, the skill ceiling is even higher with NH bridding, 
 
 PvM has content for every skill level. In contrast, PvP has almost nothing literally designed for casual or new players except for the new PvP Tutorial.
 
-### #3 [[The Polling System is Incompatible with PvP]]
+## #3 [[The Polling System is Incompatible with PvP]]
 
 I also call this the "Self-Defeating PvP Polls Problem".
 
 PvP needs updates to improve. But because PvP has a terrible reputation, most players vote no on PvP updates. So they don't pass. So PvP never improves. So the reputation stays bad. Jagex, seeing the bad reputation and unlikeliness for polls to pass, reduces development resources on PvP, repeating the cycle.
 
-### #4 [[Predator-Prey Design Problems]]
+Frankly, there's a lot more to this, such as the community having different factions that do nothing but talk past each other and are strictly against each other.
+## #4 [[Predator-Prey Design Problems]]
 
 Predator prey is the core gameplay loop of the Wilderness, and most players just completely hate it, especially on the PvM and skilling side.
 
@@ -89,7 +94,7 @@ I understand most players fundamentally don't like this design, and I believe it
 
 I would like to propose ways to improve it for both PvMers and PvPers, but without just completely "removing" the concept of predator vs prey.
 
-### #5 [[Integrity & Cheating]]
+## #5 [[Integrity & Cheating]]
 
 Nobody wants to engage with PvP where the developers of the game don't have a handle on enforcing fair gameplay.
 
@@ -101,7 +106,7 @@ There is also an issue with third-party RuneLite plugins in PvP.
 
 I think the biggest problem here is lack of communication that Jagex actually cares to take a stance on some of these problems and say they are taking action, such as when Wildy CCTV existed for around a year.
 
-### #6 [[PvM vs PvP Mechanical Inconsistencies]]
+## #6 [[PvM vs PvP Mechanical Inconsistencies]]
 
 A significant number of items, staves, and mechanics work differently in PvP versus PvM, or in the Wilderness versus the rest of the game.
 
@@ -113,7 +118,7 @@ But I do believe we should because it's just gotten absolutely ridiculous in PvP
 
 Not to mention, if you just read discussions about this for the past 6 or so years, it gets brought up time and time again and in many different ways because of how deeply rooted PvP is in all these randomly different mechanics.
 
-### #7 [[Other PvP Problems]]
+## #7 [[Other PvP Problems]]
 
 I could go on all day listing different problems. Here's just a few more.
 
