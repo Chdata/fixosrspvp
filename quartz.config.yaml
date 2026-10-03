@@ -117,7 +117,7 @@ plugins:
       body: RSChatFont
       interface: RSChatFont
       code: Quill8
-      h6: 'RSChatFont; } @font-face { font-family: "RSChatFont"; src: url("/fixosrspvp/fonts/runescape_chat_font.ttf") format("truetype"); font-display: swap; } @font-face { font-family: "Quill8"; src: url("/fixosrspvp/fonts/Quill_8.woff") format("woff"); font-display: swap; } :root { --unused: 0'
+      h6: 'RSChatFont; } @font-face { font-family: "RSChatFont"; src: url("/fixosrspvp/Attachments/Fonts/runescape_chat_font.ttf") format("truetype"); font-display: swap; } @font-face { font-family: "Quill8"; src: url("/fixosrspvp/Attachments/Fonts/Quill_8.woff") format("woff"); font-display: swap; } :root { --unused: 0'
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
