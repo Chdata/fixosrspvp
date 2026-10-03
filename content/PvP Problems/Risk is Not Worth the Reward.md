@@ -1,3 +1,6 @@
+
+ 
+ 
  -  Wilderness rewards have to compete with the rest of the game, including 18m/h from bosses like the Doom of Mokhaiotl - a value that no Wilderness activity can realistically match without creating other integrity problems
 -  PKing is a negative-sum game due to the cost of supplies (food, potions, runes, ammo) and degrading equipment charges lost by both players every fight.
 -  The risk of being killed after farming for an hour means a player can end a session with less GP than they started with, while a non-Wildy player in the same time would always profit

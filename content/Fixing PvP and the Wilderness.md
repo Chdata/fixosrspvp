@@ -37,7 +37,7 @@ The PvM side mainly just wants to not feel forced to engage with it.
 4. Most PvP has exceptionally bad gameplay loops or design.
 5. PvP is too complex for the playerbase to really discuss properly.
 6. There is no simple magic band-aid solution that requires minimal dev time to fix PvP.
-7. The community is divided. Everyone is just [arguing past each other](https://en.wikipedia.org/wiki/Talking_past_each_other) en masse. Literally [like this](https://youtu.be/gYH0D52fXe8).
+7. [[The community is divided.]] Everyone is just [arguing past each other](https://en.wikipedia.org/wiki/Talking_past_each_other) en masse. Literally [like this](https://youtu.be/gYH0D52fXe8).
 
 Here's my take on the discussions everyone's been having. I've played Runescape since 2004. I have over a decade of experience in designing and coding multiplayer PvP game balance.
 

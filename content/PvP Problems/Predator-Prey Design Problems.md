@@ -1,3 +1,6 @@
+
+
+
 -  Simultaneously, PvMers are too hard to kill, yet also PvMers die too easily. This is a perception gap between how PvPers and PvMers understand the Wilderness. The Wilderness is the safest it ever has been, yet it's too risky for anyone to engage with it.
 -  PvMers feel constantly interrupted and hunted even when just trying to complete content - world-hopping scouts and clans mean there's no quiet moment
 -  PKers simultaneously feel the Wilderness is empty - they hop 50 to 300 worlds to find one player risking almost nothing

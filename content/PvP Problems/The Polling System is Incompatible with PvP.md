@@ -1,3 +1,11 @@
+
+Quite frankly, the only way  Jagex is able to create PvP experiences for us is by not polling it.
+
+For instance, Jagex doesn't poll every change to Deadman Mode.
+
+The problem with that is that it's not a main-game game mode.
+
+
 -  PvP updates have consistently failed to pass 70% polls, so Jagex deprioritizes development resources for PvP, making future updates even less likely
 -  The 70% poll threshold is often antithetical to PvP game balance - 90% of players not engaging in PvP voting on PvP balance changes is a self-fulfilling prophecy that says PvP polls will rarely ever pass because it's not in the interests of 90% of the community
 -  Likewise, if only PKers are asked to design the Wilderness, they will create a Wilderness that is great for them, but extremely adverse to PvMers, thus also limiting potential growth of PvP as a whole. What is truly needed are compromises between both sides

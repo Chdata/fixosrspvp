@@ -1,3 +1,7 @@
+
+
+
+
 - It costs too much to even try out Wilderness PvP due to risk - the financial entry cost alone discourages experimentation before the skill gap is even a factor, especially more so for newer players who don't have a steady way to earn gold yet
 -  There is no obvious skill ladder, no understood progression system, and no clear path for bridging the gap between a new player and a competent PKer
 -  There is an unwillingness for new players to learn PvP. Perhaps because it's also just not very fun?
