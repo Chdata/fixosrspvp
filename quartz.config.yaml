@@ -13,12 +13,11 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
+    fontOrigin: local
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: RSChatFont
+      body: RSChatFont
+      code: RSChatFont
     colors:
       lightMode:
         light: "#faf8f8"
@@ -265,7 +264,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: primary
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
