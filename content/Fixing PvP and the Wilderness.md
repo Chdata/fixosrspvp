@@ -1,12 +1,11 @@
 A comprehensive analysis of OSRS PvP problems and solutions by Chdata.
+[[Contact Chdata]]
 
 # PvP in OSRS is Dying.
 
 If you've played Oldschool Runescape at all since release, then you already know the state of PvP has been in a bad spot for many years now.
 
 In 2026 I've set out to start a movement to see PvP fixed once and for all.
-
-## \#FixOSRSPvP
 
 We would love for you to join the **\#FixOSRSPVP** movement.
 ![[FixOSRSPvP]]

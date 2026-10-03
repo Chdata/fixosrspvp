@@ -16,5 +16,3 @@ https://discord.gg/As4fWG9C5K
 We have a ton of discussion about the problems and potential solutions and we would love to hear your input!
 
 We also invite Jagex to join the Discord server. After all, it's a server to discuss ideas for the Jagex dev team to review!
-
-#FixOSRSPVP 
