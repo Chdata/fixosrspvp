@@ -31,6 +31,21 @@ I can name 4 JMods who are "PvP focused."
 3. Mod Roq (retired)
 4. Mod Soffan (retired)
 
+Jagex recently announced at RuneFest 2026 that they will be able to now develop regular content alongside temporary gamemodes without the temporary gamemodes taking dev time away from the regular content.
+
+Now if only we could have a dedicated PvP team.
+
+---
+I think it would be interesting if Jagex could give us a statistic on how much of the voting population are players who are at an age we would expect to be "working adults" versus younger populations.
+
+Oldschool Runescape's minimum age requirement is 13.
+
+I bring this up is because there is a rise in [younger generations struggling in schools](https://www.youtube.com/shorts/B6Ue_5IdNaA).
+
+Those same players can vote on polls... hah.
+
+It's a stretch, but who knows, maybe there is some invisible effect on Runescape?
+
 ---
 Notes:
 [^1]: A lot of players use the terms "PvMer" synomously for "non-PvPer". Myself included.

@@ -1,6 +1,6 @@
 
 
-
+Bullet point notes:
 -  PvMers are used to a low-risk gravestone system in every part of the game which contrasts high-risk PvP starkly, which creates a huge perception gap of risk between PvMers and PvPers.
 -  The elemental tomes (fire, water, earth) have wildly different stats in PvM and PvP
 -  Autocasting on staves behaves differently between PvP and PvM contexts, creating confusion for players transitioning between modes.

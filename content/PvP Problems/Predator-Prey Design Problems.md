@@ -1,5 +1,20 @@
 
+Why doesn't "loot pinata" content work as a long-term solution?
 
+I would say it's more than just "players hate it". That's important too, the game design of it sucks, but also the math of it sucks.
+
+Due to risk, it's possible to just lose gold and waste your entire trip while PvMing in the Wilderness.
+
+In the long term, this means that everyone new to the Wilderness will just lose money, so they don't stay long.
+
+Players are expected to die in the Wilderness. We are expected to die multiple times. And newer players are expected to die more often.
+
+It's just not a sustainable design for onboarding new players or retaining players long term.
+
+[[Blessed Status]] counters this by creating a different form of risk in the Wilderness more suited to newer players engaging with the Wilderness.
+
+
+Bullet point notes:
 
 -  Simultaneously, PvMers are too hard to kill, yet also PvMers die too easily. This is a perception gap between how PvPers and PvMers understand the Wilderness. The Wilderness is the safest it ever has been, yet it's too risky for anyone to engage with it.
 -  PvMers feel constantly interrupted and hunted even when just trying to complete content - world-hopping scouts and clans mean there's no quiet moment

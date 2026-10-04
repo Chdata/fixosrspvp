@@ -1,6 +1,6 @@
 
 
-
+Bullet point notes:
 -  Cheat clients that auto-pray and auto-eat remove a large part of the mechanical skill from PvP, giving a significant competitive advantage over legitimate players
 -  AHK and similar scripts that perform instant weapon switches automatically reduce a high-skill-ceiling mechanic to a zero-effort action
 -  Bots farming GP in the Wilderness suppress organic activity and distort the population numbers Jagex uses to evaluate PvP health. To be honest, it's a little goofy that PKers often recommend people use "killing bots" as an introductory way to engage with the Wilderness

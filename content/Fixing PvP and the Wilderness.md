@@ -164,7 +164,7 @@ These are standalone ideas that fix smaller problems of the PvP and the Wilderne
 
 These are not my original ideas, but they are ideas I think deserve more attention. These have been floating around the community for years. Both of them would greatly improve the Wilderness.
 
-1. [[Ironman Loot Keys to Bonds-Only coffers]]
+1. [[Ironman Loot Keys to Bonds-Only Coffers]]
 2. [[Wilderness Only Clue Scrolls]]
 
 ### Let's Fix Our Current PvP Minigames
