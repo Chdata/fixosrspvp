@@ -198,7 +198,7 @@ I have various other ideas that I think would be great for PvP. But I think thes
 In other cases, such as new PvP minigame ideas, I think we should not create more PvP activities until we can make ALL of our existing PvP activities good and active. Not just the Wilderness.
 
 1. [[Forinthry Castle]]
-2. [[Unbottable 5v5 PvP Arena (2019]]
+2. [[Unbottable 5v5 PvP Arena (2019)]]
 3. [[Wilderness Activity Listing]]
 4. [[Arceuus Spellbook Rework (2018)]]
 5. [[Bigger & Blighted Bonesacks]]

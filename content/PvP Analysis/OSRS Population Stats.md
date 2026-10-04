@@ -21,6 +21,10 @@ Ironmen are roughly 30% of the voting population.
 Mains (who don't PvP) are roughly 60% of the voting population. [^2]
 
 ---
+[New players make up more than 50% of the current OSRS population.](https://youtu.be/gdrTfcML0Us&t=856)
+We're talking about players whose first exposure to Runescape "at all" has been OSRS and only in the past couple of years.
+
+---
 There are 112 Jagex Developers on the OSRS team.
 
 ![[Pasted image 20261003141108.png]]

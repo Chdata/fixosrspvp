@@ -89,18 +89,19 @@ If we ever want to break out of this impossible scenario, the only way is to cha
 **Where does new blood come from?**
 10% of the population are already PvPers, and 90% are PvMers, so where does new blood come from if PKers don’t want to appeal to PvMers?
 
+Source: [[OSRS Population Stats]]
+
 # How do we break out of these circular problems?
 
 The way out of any one of these loops is to break the loop, at the sacrifice of one link in the chain. 
 
 This can only be done by first acknowledging, realizing, and naming the loop. 
 
-Then, there is usually some kind of highly specific way out of them that does kind of work for everyone, but it's really very very specific or something out-of-the-box.
+Then, there is usually some kind of highly specific way out of them that does kind of work for everyone, or works for the largest group possible, but it's really very very specific or something out-of-the-box.
 
 Normally, it's the developers who break us out of loops because they design the game, and players adapt.
 
-All of this happens because the polling system prioritizes the preferences of every single opposing community faction. 
-
+**All of this happens because the polling system prioritizes the preferences of every single opposing community faction.** 
 - So the way out would be to not poll PvP changes. 
 - But Jagex does not want to move away from polling.
 - Wait, that pattern sounds familiar.
@@ -108,7 +109,7 @@ All of this happens because the polling system prioritizes the preferences of ev
 
 # How are we currently solving each of these "double-binds"?
 
-Every time there is a stalemate, we give up and choose secret option D: “Do nothing”. 
+Every time there is a stalemate, we give up and choose the secret polling option D: “Do nothing”. 
 
 Or we end up with a half-finished broken solution like the PvP Arena or adding more activities and rewards to the Wilderness without really looking at the barriers to entry of the Wilderness.
 
@@ -121,18 +122,27 @@ Everyone wants to die on their hill about how PvP should be, so it seems to be i
 
 Every single design contradiction I mentioned in the list above is something that I have a solution and an answer to.
 
+There are no solutions that will make everyone happy.
+
+So my ideas are just according to my own bias of trying to find as much of a middle-ground or compromise solutions as possible between different factions.
+
 **Dev time justification double-bind.** 
 
 If PvP cannot get popular enough to justify dev time, and the devs can’t update PvP to make it more popular…
 
-Then this video and the #FixOSRSPvP movement and petition and our big list of proposed long-term solutions and getting everyone to move the dialogue about PvP forward are the solutions to break out of this double-bind.
+Then this video and the [[FixOSRSPvP]] movement and petition and our big list of proposed long-term solutions and getting everyone to move the dialogue about PvP forward are the solutions to break out of this double-bind.
 
 The way out is to convince Jagex that the community cares about PvP and that it’s worth discussing and it’s worth updating even if it’s not currently popular, because what we do see is the potential for it to become popular.
 
+This relies on the notion that the community can be on-board with my ramblings. I ask for your support if you want to see some *real* change!
+
+Join [[FixOSRSPvP]] or [[Contact Chdata]].
 
 **Self-defeating PvP polls. Every population split is incompatible with supermajority polling.**
 
-The answer to this problem is to acknowledge that supermajority polling isn’t built for every kind of scenario.
+The answer to this problem is to acknowledge that [[The Polling System is Incompatible with PvP]].
+
+More specifically, supermajority polling isn’t built for every kind of scenario.
 
 I have multiple solutions.
 - PvP Update Ranking Polls
@@ -143,6 +153,8 @@ I have multiple solutions.
 - Doing just more unpolled stuff for PvP
 - Figuring out some kind of different community-focused design process for PvP
 - Doing more “live beta testing” that we can just undo later.
+
+See: [[Changes to the Polling Charter or Jagex's Design Process]]
 
 
 **Changing risk vs reward to either lower barriers to entry or make it more worth doing. Triple-bind.**
@@ -155,35 +167,34 @@ But in reality, I think all 3 are viable options and we should do all 3.
 
 The underlying problem is that Jagex is not willing to try any direction at all because there’s no consensus.
 
-So, the #FixOSRSPvP is here to try and show Jagex that we do have a consensus on at least trying SOMETHING and trying to change this fundamental design process that ends us up in a deadlock.
+So, the [[FixOSRSPvP]] movement is here to try and show Jagex that we do have a consensus on at least trying SOMETHING and trying to change this fundamental design process that ends us up in a deadlock.
 
 Additionally:
-
-- Blessed Status, which I describe later in the video, is one way of tackling this specific problem.
+- [[Blessed Status]], is one way of tackling this specific problem.
 - And maybe Jagex can increase gold per hour in some ways depending on different risk factors like staying in the Wilderness longer, representing a time-risk. Or we can add other requirements to justify better rewards.
 - And maybe we can figure out what makes unique rewards more amicable for the community to pass them.
 
 
-**For mains: Should the PvMer be more viable, or should the PKer be more viable?**
+**For mains PvP: Should the PvMer be more viable, or should the PKer be more viable?**
 
 If PKers need to kill PvMers to make money, but PvMers don’t go to the Wilderness because they lose money…
 
 The short answer is that both need to be viable but in different ways.
 
-This is another thing which Blessed Status mostly addresses on a very systemic level. Which again, is for later in the video.
+This is another thing which [[Blessed Status]] mostly addresses on a very systemic level. Which again, is for later in the video.
 
 There is a lot more that we can do besides just that.
 
 This is a complicated topic with a complicated answer, but it does have an answer.
+
+For me, that answer is "a combination of all of the damn information I wrote in this blog".
 
 
 **Risk vs Power Viability Double-Bind**
 
 If you need to risk more to be stronger to kill people, but you don’t want to risk, which leaves you weaker…
 
-This is another complicated topic with a complicated answer which I also believe Blessed Status is a good answer for.
-
-I apologize I keep mentioning it without explaining what it is, but trust me, we are almost finally at the part of the video where I explain what that is in detail.
+This is another complicated topic with a complicated answer which I also believe [[Blessed Status]] is a good answer for.
 
 
 **Cat & Mouse game balance double-bind**
@@ -196,6 +207,12 @@ This just boils down to how specifically the game is balanced.
 
 What should be happening is that, based on players skill levels and how much they fumble, sometimes players are dying, sometimes players are surviving, and the game needs to be balanced in a way that that’s fun for both sides and gives both sides a good enough opportunity to succeed in their opposing goals.
 
+Also, escape gameplay for mice in the Wilderness is lame right now.
+
+I recommend [[Real Wilderness Escape Gameplay]].
+
+Again, [[Blessed Status]] helps here too.
+
 
 **Old vs New double-bind**
 
@@ -204,7 +221,7 @@ My answer to “old vs new” is that the old shit doesn’t work. We have no ch
 
 **Casual vs Competitive double-bind**
 
-Casual vs competitive is a debate that happens in every single multiplayer PvP game that has a competitive scene.
+Casual vs competitive is a debate that happens in every single multiplayer PvP game that has a competitive scene or that has "high skill players", which is pretty much every game in existence.
 
 Generally, what’s good for competitive is not great for casual, and what’s great for casual is not good for competitive.
 
@@ -219,7 +236,11 @@ Again, this is what pretty much every solution I have is focused around, but I d
 
 My solution here is to have high requirements for obtaining monetary rewards, but low requirements for participating in activities.
 
+Additionally, the more untradeable rewards, the better, because those are pointless for bots.
+
 This is something I go into more detail on in the Discord and in the relevant suggestions.
+
+[[Improvements For Multiple PvP Minigames]]
 
 
 **Motivation to learn before having fun**
@@ -232,6 +253,33 @@ For example, I still enjoyed Castle Wars and Soul Wars despite being a low level
 
 This ties into making the game better for casual players. Whatever makes it better for casual players will make it more fun to learn.
 
+We should not be expecting players to have to learn PvP on a very deep level before they can "start" having fun.
+
+Generally speaking, PvP is fun even if you suck at it, as long as you're up against people who are on your level.
+
+It's not fun when you're new and suddenly you have to fight someone who moves like Odablock.
+
+Player's skill levels in games also tends to plateau at a certain point for years. It's perfectly possible for a player to be unable to even reach higher skill levels.
+
+That represents a problem if they are then not able to enjoy the game at their own skill level.
+
+We should still expect some kind of skill floor, like understanding item and prayer switching, and using a minimum level of strength of armor and weapons relative to your opponents.
+
+But the skill floor should not involve understanding PID, 1-tick combos, 8-way tribridding, DD or Freeze + Step-Under shenanigans, or freeze log.
+
+At most the skill floor should be "knowing how to use a special attack", some basic Venge PKing, some basic lazy bridding, and some basic escape gameplay.
+
+Both of these solutions are offering a "low skill" way to engage with the Wilderness for both PvPers and PvMers.
+[[Blessed Status]]
+[[Real Wilderness Escape Gameplay]]
+
+Additionally, if the PvP Arena actually functioned as it should with its skill-based matchmaking, that would pit "low skill" players against other "low skill" players.
+[[Let's Fix The PvP Arena]]
+
+And, if we fix our safe PvP minigames, those are all forms of PvP that can be enjoyed even if you're kind of a noob.
+[[Improvements For Multiple PvP Minigames]]
+[[Let's Fix Soul Wars]]
+[[Let's Fix Castle Wars]]
 
 **Punishing vs Forgiving**
 
@@ -239,21 +287,63 @@ If PKers want things to be more punishing, but they need to be more forgiving to
 
 The bigger more important problem is the fact that PvP has declined so much.
 
+[[Blessed Status]]
+[[Real Wilderness Escape Gameplay]]
 
 **Risk PvP is very niche.**
 
 Again, we just need to offer less risky options for PvP.
+
+[[Blessed Status]]
+[[Real Wilderness Escape Gameplay]]
+[[Improvements For Multiple PvP Minigames]]
+[[Let's Fix Soul Wars]]
+[[Let's Fix Castle Wars]]
+[[Let's Fix The PvP Arena]]
+[[Multi Wars]]
+[[Unbottable 5v5 PvP Arena (2019)]]
 
 
 **Where does new blood come from?**
 
 If 10% of players are PvPers (already do PvP) and 90% are PvMers (or some other kind of non-PvPer), but PKers don’t want to appeal to PvMers, then how do we get new blood?
 
+[[OSRS Population Stats]]
+
 Well, we do appeal to PvMers. Not every PvMers is strictly a “no PvP” gamer. Many might very well be “fence-sitters” who only don’t PvP because it’s poorly designed everywhere.
 
-We can also appeal to players who are not part of the current population, which means both new players, and retired veterans, and PKers who have quit.
+We can and should completely ignore players who strictly don't want to engage in PvP encounters.
 
+PvP should not appeal to players who do not want to engage in PvP encounters.
+
+We can also appeal to players who are not part of the current population, which means new players, and retired veterans, and PKers who have quit.
+
+**Summary:**
+- Existing PKers (10% of our population) already engage with PvP.
+- They don't need to be convinced to engage with it.
+
+**Therefore, new blood comes from these sources:**
+1. Existing Mains who don't currently PvP (60% of our population)
+2. Existing Ironmen (30% of our population)
+3. New players. (Immeasurable... but Mod North says that over 50% of OSRS players started within the last couple of years).
+4. Returning retired veterans. (Immeasurable).
+5. Returning PKers who have quit. (Immeasurable... but Runescape Private Server playercounts might give you some kind of ballpark number).
+
+**No, I am not expecting 100% conversion.**
+
+We don't need all 60% of our Mains and all 30% of our Ironmen.
+
+Again, it's perfectly reasonable that plenty of players are not interested in PvP whatsoever. This is just normal in all of gaming.
+
+Even if we got half of that, 30% Mains and 15% Mains, that's an significant improvement from just 10% of players to 55% of players.
+
+Even if we got one TENTH of that, a whopping 6% + 3%, that would actually nearly double the PvP playerbase from 10% to 19%.
+
+And that's not counting potential traffic from new or returning players.
 
 **All of this happens because the polling system prioritizes the preferences of every single opposing community faction.** 
 
-Again, we need to just look critically about whether or not the polling system is really serving us for PvP.
+Again, we need to look critically about whether or not the polling system is really serving us for PvP.
+
+[[The Polling System is Incompatible with PvP]]
+[[Changes to the Polling Charter or Jagex's Design Process]]
