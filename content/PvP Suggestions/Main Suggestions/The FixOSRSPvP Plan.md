@@ -2,7 +2,7 @@
 [[Contact Chdata]]
 
 ###### TL;DR
-The goal of [[FixOSRSPvP]] is to petition Jagex to take action in developing good long-term solutions to create a healthy system of PvP for OSRS, using [[The FixOSRSPvP Plan]].
+The goal of [[FixOSRSPvP]] is to petition Jagex to take action in developing good long-term solutions to create a healthy system of PvP for OSRS, using [[The FixOSRSPvP Design Process]].
 
 ## The FixOSRSPvP Plan
 
@@ -16,7 +16,7 @@ Joining and sharing [[FixOSRSPvP]] is how you can help us make some noise until 
 
 ### **Part 2:** Our Big Questions for Jagex
 
-1. We would like to ask Jagex if they are willing to try [[The FixOSRSPvP Plan]].
+1. We would like to ask Jagex if they are willing to try [[The FixOSRSPvP Design Process]].
 
 2. We need data!
 
@@ -33,6 +33,6 @@ There is already a [heatmap plugin](https://osrsworldheatmap.com/?h=DEATHS&a=all
 **Reasoning:**
 We want this so we can have a public, objective measurement of how well PvP is doing.
 
-### **Part 3:** Agree on and execute "[[The FixOSRSPvP Design Process]]" between Jagex and the community.
+### **Part 3:** [[The FixOSRSPvP Design Process]]
 
 ![[The FixOSRSPvP Design Process]]

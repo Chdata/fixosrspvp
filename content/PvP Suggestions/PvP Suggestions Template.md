@@ -31,7 +31,9 @@
 
 ## How does it address [[The Skill Gap is Too Large]]?
 
-## How does it address [[Risk is Not Worth the Reward]]?
+## How does it address [[Reward Incentive across most of PvP is lacking]]?
+
+## Can your idea be botted, exploited, or boosted?
 
 ## Is this idea for the Wilderness?
 - [ ] Yes
@@ -48,6 +50,8 @@
 #### Why would new players like your idea?
 
 #### Does it appeal to any [[Niche Player Types]]?
+
+#### How does it address [[Risk is Not Worth the Reward]]?
 
 #### How does it address [[Predator-Prey Design Problems]]?
 
