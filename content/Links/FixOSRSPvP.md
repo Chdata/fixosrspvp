@@ -1,4 +1,4 @@
-**\#FixOSRSPVP** is a community-led movement to petition Jagex to fix OSRS PvP.
+**\#FixOSRSPvP** is a community-led movement to petition Jagex to fix OSRS PvP.
 
 Our goal is to create a dialogue between Jagex and the community to figure out what can be done to improve PvP for everyone.
 
@@ -8,13 +8,13 @@ We are looking mainly for compromise solutions or middlegrounds that bridge the 
 
 We are mainly focused on revitalizing existing PvP activities, not creating completely new ones.
 
-You may sign the **\#FixOSRSPVP** petition here:
+Sign the **\#FixOSRSPvP** petition to show Jagex that PvP is WORTH INVESTING IN.
 \[link - coming soon, after the videos are published]
 
-Please join the **\#FixOSRSPVP** Discord server here:
+Please join the **\#FixOSRSPvP** Discord server here:
 https://discord.gg/As4fWG9C5K
 
-**\#FixOSRSPVP** YouTube
+**\#FixOSRSPvP** YouTube
 \[link - coming soon, after the videos are published]
 
 We have a ton of discussion about the problems and potential solutions and we would love to hear your input!
