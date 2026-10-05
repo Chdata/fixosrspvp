@@ -29,7 +29,7 @@ If Jagex and the community ever wants PvP to move forward, we have to break out 
 - A 100% PvM population would fail all PvP updates.
 
 And this is our present situation:
-![[chrome_rpNYU7RsJ4.png]]
+![[TheStateOfPvPPolls.png]]
 
 [[The Polling System is Incompatible with PvP]]
 
@@ -301,10 +301,13 @@ Again, we just need to offer less risky options for PvP.
 [[Let's Fix Castle Wars]]
 [[Let's Fix The PvP Arena]]
 [[Multi Wars]]
+[[Rookie Bounty Hunter]]
 [[Unbottable 5v5 PvP Arena (2019)]]
 
 
 **Where does new blood come from?**
+
+![[JagexGlobalImage.png]]
 
 If 10% of players are PvPers (already do PvP) and 90% are PvMers (or some other kind of non-PvPer), but PKers don’t want to appeal to PvMers, then how do we get new blood?
 

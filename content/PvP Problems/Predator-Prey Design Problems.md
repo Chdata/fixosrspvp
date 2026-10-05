@@ -1,7 +1,11 @@
 
 Why doesn't "loot pinata" content work as a long-term solution?
 
-I would say it's more than just "players hate it". That's important too, the game design of it sucks, but also the math of it sucks.
+I would say it's more than just "players hate it".
+
+It is true that [[Players feel forced to engage with PvP]].
+
+That's important too, the game design of it sucks, but also the math of it sucks.
 
 Due to risk, it's possible to just lose gold and waste your entire trip while PvMing in the Wilderness.
 

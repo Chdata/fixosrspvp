@@ -4,3 +4,9 @@ I am exclusively hosting this idea in the [[FixOSRSPVP]] Discord.
 
 This also entails [Changes to the "Logout Meta" and "Wilderness Worldhop Meta" of the Wilderness.](https://discord.com/channels/1535766145489969246/1545870222756417646)
 
+
+# What specific problems does this address?
+
+[[Predator-Prey Design Problems]]
+[[Risk is Not Worth the Reward]]
+[[The Skill Gap is Too Large]]

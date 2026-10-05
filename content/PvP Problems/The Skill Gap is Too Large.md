@@ -1,5 +1,21 @@
 
+**There are three types of gaps:**
+1. Skill Gaps - Player Skill
+2. Power Gaps - Stats, Armor, Weapons
+3. Content Gaps - Activities which are suited to casual players.
 
+# Newer players are locked out of good PvP
+
+- Ice Barrage requires 94 magic.
+- Vengeance requires 94 magic.
+- Mage Cape for Teleblock + Ice Barrage requires 99 magic.
+- You generally need max 99 stats in various skill to be competitively viable in Wilderness PKing.
+- You generally need to be rich and own max equipment to be competitively viable in safe PvP minigames.
+- A "balanced stats" main (50 attack, 50 strength, 50 defense) is almost always weaker than a pure of the same combat level (50 attack, 99 strength, 1 defense)l.
+- You have to spend millions in buying return sets to make it viable to engage with the Wilderness repeatedly.
+- Risk is expensive in general for new players.
+- The basic PvP functionality of Loot Keys cost 1m.
+- The closest spawn locations to the Wilderness (Ferox Enclave and Edgeville) cost 5m each.
 
 Bullet point notes:
 - It costs too much to even try out Wilderness PvP due to risk - the financial entry cost alone discourages experimentation before the skill gap is even a factor, especially more so for newer players who don't have a steady way to earn gold yet

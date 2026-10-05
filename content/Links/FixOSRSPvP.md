@@ -4,6 +4,10 @@ Our goal is to create a dialogue between Jagex and the community to figure out w
 
 Not only do we want to move the dialogue forward, but we also have a whole host of potential solutions.
 
+We are looking mainly for compromise solutions or middlegrounds that bridge the gap between different types of players, not solutions that completely shut one side out versus the other.
+
+We are mainly focused on revitalizing existing PvP activities, not creating completely new ones.
+
 You may sign the **\#FixOSRSPVP** petition here:
 \[link - coming soon, after the videos are published]
 

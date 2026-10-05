@@ -150,7 +150,7 @@
 
 [**Mod Ayiza** on the Wilderness:](https://youtube.com/shorts/bsOE4JfRsLY)
 
-![[chrome_2L2myY35q6.png]]
+![[AyizaBehemeth.png]]
 
 
 [Westham on "What makes OSRS PvP different from other games?" at RuneFest 2026](https://www.twitch.tv/oldschoolrs/clip/SweetEnjoyableLouseTwitchRaid-zCnYS_wvqzGL9jHD)
