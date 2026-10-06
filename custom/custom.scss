@@ -48,3 +48,16 @@ html:root body a.internal {
   padding: 0;
   border-radius: 0;
 }
+
+// Quartz makes every link semi-bold; keep table of contents entries at normal
+// weight like Obsidian's outline.
+html:root body ul.toc-content.overflow a {
+  font-weight: normal;
+}
+
+// The TOC and explorer lists clip their overflow with no left padding, which
+// cuts off the left edge of the pixel font's glyphs.
+html:root body ul.toc-content.overflow,
+html:root body .explorer-content {
+  padding-left: 0.25rem;
+}
