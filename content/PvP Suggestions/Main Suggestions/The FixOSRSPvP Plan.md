@@ -3,7 +3,7 @@
 
 ## The FixOSRSPvP Plan
 
-### **Part 1:** Get everyone's attention. Jagex and the community.
+### **Part 1:** Get everyone's attention. Jagex and the community.<span class="collapsed"></span>
 
 We want to create an open dialogue between Jagex and the community.
 
@@ -11,7 +11,7 @@ Joining and sharing the [[FixOSRSPvP]] movement is how you can help us make some
 
 ![[FixOSRSPvP]]
 
-### **Part 2:** Our Big Questions for Jagex
+### **Part 2:** Our Big Questions for Jagex<span class="collapsed"></span>
 
 1. We would like to ask Jagex if they are willing to try working with us to figure out a new design process for PvP in OSRS and if Jagex is willing to review or help us develop new PvP suggestions.
 
@@ -26,7 +26,7 @@ Joining and sharing the [[FixOSRSPvP]] movement is how you can help us make some
 **Reasoning:**
 We want this so we can have a public, objective measurement of how well PvP is doing.
 
-### **Part 3:** Working with Jagex and the community
+### **Part 3:** Working with Jagex and the community<span class="collapsed"></span>
 
 We have a TON of PvP suggestions.
 
