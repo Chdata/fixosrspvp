@@ -7,7 +7,7 @@ What are our specific solutions for PvP?
 
 Well, we have many ideas, and we are accepting submissions in our Discord.
 
-The first step is to have an open dialogue with Jagex about finding the best path forward.
+The first step is to discuss with Jagex about finding the best path forward.
 ###### Links
 
 Sign the **\#FixOSRSPvP** petition to show Jagex that PvP is WORTH INVESTING IN.

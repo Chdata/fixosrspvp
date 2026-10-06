@@ -31,11 +31,11 @@ In Summary:
 From what I understand, the PvP playerbase just wants it to be active.
 The PvM side mainly just wants to not feel forced to engage with it.
 
-1. Skill Gap problems.
-2. The majority of the playerbase is risk-averse.
-3. Most PvP has bad or heavily nerfed reward incentives.
-4. Most PvP has exceptionally bad gameplay loops or design.
-5. PvP is too complex for the playerbase to really discuss properly.
+1. [[The Skill Gap is Too Large]]
+2. [[The Majority of the Playerbase is Risk-Averse]] and [[Risk is Not Worth the Reward]]
+3. [[Reward Incentive across most of PvP is lacking]]
+4. Most PvP has exceptionally bad gameplay loops or design
+5. PvP is too complex for the playerbase to really discuss properly
 6. There is no simple magic band-aid solution that requires minimal dev time to fix PvP.
 7. [[The community is divided.]] Everyone is just [arguing past each other](https://en.wikipedia.org/wiki/Talking_past_each_other) en masse. Literally [like this](https://youtu.be/gYH0D52fXe8).
 
