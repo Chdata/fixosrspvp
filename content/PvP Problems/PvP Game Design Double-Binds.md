@@ -13,6 +13,9 @@ These tend to be almost like oxymorons or paradoxes, because quite literally, so
 - The following sentence is false.
 - The previous sentence is true.
 
+**Or like this triple-bind here:**
+![[WorkLifeBalance.gif]]
+
 # Here’s a big list of examples of what I’m talking about.
 
 **Dev time justification double-bind.** 
@@ -90,6 +93,21 @@ If we ever want to break out of this impossible scenario, the only way is to cha
 10% of the population are already PvPers, and 90% are PvMers, so where does new blood come from if PKers don’t want to appeal to PvMers?
 
 Source: [[OSRS Population Stats]]
+
+**Balance Change Polling Double-Bind:**
+- Balance Changes need to be unpolled.
+- New Armour or Weapon Rewards are Balance Changes.
+- Rewards need to be polled.
+
+**Wilderness Risk vs Power Triple-Bind where there isn't really a viable option for gameplay.**
+1. Either you bring absolutely nothing and have 0 risk, but cannot possibly fight back, or
+2. You bring a minimal risk 50k loadout, and now you have extremely weak equipment so you are very likely to die most of the time anyway, or
+3. You bring an actually decent loadout, and now you're risking 300k or 40m depending on what that loadout is, and you are losing a lot more gold on death.
+
+All 3 options suck for new players, casual players, and risk-averse players.
+[[The Majority of the Playerbase is Risk-Averse]]
+
+It's not a problem for PKers because they are both willing to lose huge amounts, [[PKers are desensitized to risk]], and they already have several years of skill and experience built up that they can reliably kill other players to earn back their losses.
 
 # How do we break out of these circular problems?
 
@@ -344,7 +362,16 @@ Even if we got one TENTH of that, a whopping 6% + 3%, that would actually nearly
 
 And that's not counting potential traffic from new or returning players.
 
-**All of this happens because the polling system prioritizes the preferences of every single opposing community faction.** 
+
+**Balance Change Polling Double-Bind:**
+My best bet at tackling this is written in [[Changes to the Polling Charter or Jagex's Design Process]].
+
+
+**Wilderness Risk vs Power Triple-Bind where there isn't really a viable option for gameplay.**
+[[Blessed Status]] is my answer to this.
+
+
+**All of this happens because the polling system prioritizes the preferences of every single opposing community faction in a climate where [[The community is divided.]]**
 
 Again, we need to look critically about whether or not the polling system is really serving us for PvP.
 

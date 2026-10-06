@@ -1,4 +1,6 @@
-
+[[Let's Fix Soul Wars]]
+[[Let's Fix Castle Wars]]
+[[Let's Fix The PvP Arena]]
 
 
 # What specific problems does this address?

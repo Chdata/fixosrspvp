@@ -1,9 +1,28 @@
+This is a common consensus amongst PKers.
+
+If you read around the [PvP Feedback - Old School RuneScape](https://discord.gg/MfFADdj6CX) Discord, there is quite a bit of discussion around making PvP unpolled.
+
+The [[FixOSRSPvP]] stance on polling is that we acknowledge that there is an inherent incompatibility with supermajority polling and a climate where [[The community is divided.]]
+
+Therefore, we would like Jagex to critically consider whether or not the [Polling System](https://osrs.runescape.com/polling-charter) is even working for PvP, and whether or not we can see [[Changes to the Polling Charter or Jagex's Design Process]] for PvP.
+
+![[TheStateOfPvPPolls.png]]
+
+We're not saying everything in PvP has to jump to being unpolled. But there are quite a few things that I believe make sense to be unpolled, such as the integrity of PvP minigames.
+
+And there are quite a few things that I think are impossible to fairly poll, such as [[Zero-Sum Balance Changes]].
+
+Maybe there are different ways of polling we can try, such as [[PvP Update Ranking Polls]]?
+
+I will note that I don't believe Simple Majority Polling (50%+1) is the correct way to go either, because that simply means PvP changes become a coin toss rather than updates that are made for a specific balancing reason. Everything should have good reason.
 
 Quite frankly, the only way  Jagex is able to create PvP experiences for us is by not polling it.
 
 For instance, Jagex doesn't poll every change to Deadman Mode.
 
 The problem with that is that it's not a main-game game mode.
+
+
 
 Bullet point notes:
 -  PvP updates have consistently failed to pass 70% polls, so Jagex deprioritizes development resources for PvP, making future updates even less likely

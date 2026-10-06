@@ -1,6 +1,18 @@
 A comprehensive analysis of OSRS PvP problems and solutions by Chdata.
 [[Contact Chdata]]
 
+# TL;DR
+
+Wait, do you expect players and Jagex to read everything on this website?
+
+Do you expect Jagex to watch a 5 hour video you're working on?
+
+No, I don't!
+
+However, unfortunately, PvP is an extremely large and complicated topic.
+
+I'm working on shorter summaries of stuff, but for now, [[FixOSRSPvP]] is the most important thing.
+
 # PvP in OSRS is Dying.
 
 If you've played Oldschool Runescape at all since release, then you already know the state of PvP has been in a bad spot for many years now.

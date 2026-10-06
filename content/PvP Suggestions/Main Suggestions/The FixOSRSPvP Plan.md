@@ -40,4 +40,6 @@ Then, we would like to know if it would be possible for Jagex to do something li
 
 But, this is a conversation where we really need to have Jagex on board with us to see what the team thinks.
 
+Ultimately, our goal is to reach [[What PvP looks like in an ideal world]].
+
 So, help us **get everyone's attention** and share the [[FixOSRSPvP]] movement today!

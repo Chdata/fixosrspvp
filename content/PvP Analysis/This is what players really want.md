@@ -12,7 +12,7 @@
 # There are a few more specific desires from each faction.
 
 **PKer's most common requests:**
-1. PKers want the Wilderness to only be accessible in a limited number of worlds. Let's say 100 instead of 300. 
+1. PKers want to [[Limit the Wilderness to only be accessible on X number of worlds.]] Let's say 100 instead of 300.
    - Some have said only 10 worlds and any number in between. 50. 75.
    - The underlying desire is to reduce hopscape and be able to find other players easier.
    - In other words, the PvP side just wants the Wilderness to be active.
@@ -28,7 +28,7 @@
 **PvMer's most common requests:**
 1. PvMers want the content that makes them feel "forced" to engage with PvP, to be available outside of PvP.
 
-2. PvMers want PvP in the Wilderness to be opt-in like RS3 did. *(Please no, that is a horrible idea for OSRS.)*
+2. PvMers want to [[Make PvP opt-in in the Wilderness]] like RS3 did. *(Please no, that is a horrible idea for OSRS.)*
 
 3. PvMers don't want to get "interrupted" or attacked at all while doing PvM or skilling content in the Wilderness.
    
@@ -45,7 +45,7 @@
   - He includes his own proposed solution for this regarding the Revenant Caves.
 
 **Jagex's stated goals, development process, and design rules:**
-1. Jagex wants the majority playerbase to be happy with PvP.
+1. Jagex wants the entire playerbase to be happy with PvP. Both sides.
 
 2. Jagex does not want to inflate gold in the economy.
 

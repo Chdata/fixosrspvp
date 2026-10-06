@@ -1,0 +1,1 @@
+[[Freeze-Log Meta]] as the only form of escape sucks.

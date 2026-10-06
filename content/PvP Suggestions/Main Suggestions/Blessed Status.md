@@ -1,4 +1,4 @@
-
+Blessed Status is a new overhead status similar to Skulling which provides less punishing deaths in the Wilderness.
 # What specific problems does this address?
 
 [[Predator-Prey Design Problems]]

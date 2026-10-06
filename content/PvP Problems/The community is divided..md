@@ -18,6 +18,10 @@ The discussions only create [cognitive dissonance](https://en.wikipedia.org/wiki
 
 Almost no one really tries to meet in the middle.
 
+The different factions have a huge conflict of interests in the Wilderness.
+
+Incidentally, there isn't a huge conflict of interest in any other form of PvP, because no other form of PvP incentivizes you to engage with it for rewards that are useful outside of PvP.
+
 There are some other unique "factions" of these discussions.
 
 1. Mains who don't PvP (roughly 60% of the voting population)
@@ -35,3 +39,5 @@ The cherry on top of this problem is that OSRS's polling system requires a 70% s
 Also that 30% Ironmen population is completely de-incentivized from interacting with PvP, so that's almost a guaranteed 30% no vote.
 
 Essentially we have RED vs BLU except we're trying to get them to agree on polls together. They can't.
+
+Therefore, [[The Polling System is Incompatible with PvP]]

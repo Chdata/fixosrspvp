@@ -1,4 +1,19 @@
 
+This includes:
+- Bots
+- Gold Farmers
+- AFKing Minigames
+- Boosting Minigames
+- Rigging Minigames
+- Griefing & Sabotaging Minigames
+- RuneLite Plugins that give advantages in PvP or PvP zones.
+- Cheat clients
+- AHK Scripts
+- WildyCCTV
+- Scout Alts or Bots for PKers to search worlds
+- Scout Alts for PvMers to alert them outside of boss rooms
+
+
 
 Bullet point notes:
 -  Cheat clients that auto-pray and auto-eat remove a large part of the mechanical skill from PvP, giving a significant competitive advantage over legitimate players

@@ -4,6 +4,7 @@ Here is my longform game design deep dive about how [[Risk is Not Worth the Rewa
 [[The Majority of the Playerbase is Risk-Averse]]
 [[Risk is Expensive]]
 
+Compare Vorkath (safe PvM) rates to the Wilderness (risk PKing).
 
  Bullet point notes:
  -  Wilderness rewards have to compete with the rest of the game, including 18m/h from bosses like the Doom of Mokhaiotl - a value that no Wilderness activity can realistically match without creating other integrity problems
