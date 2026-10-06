@@ -65,9 +65,18 @@ html:root body .explorer-content {
   overflow-x: hidden;
 }
 
+// The explorer and TOC boxes themselves also clip, cutting off the first
+// letter of their headers. Pad them and pull them back left so the sidebars
+// stay aligned.
+html:root body .explorer,
+html:root body .toc {
+  padding-left: 0.25rem;
+  margin-left: -0.25rem;
+}
+
 // Collapsible headings (custom/collapse-headings.js). The fold arrow sits in
 // the left margin like Obsidian's and shows on hover, or always when collapsed.
-article > :is(h1, h2, h3, h4, h5, h6) {
+.heading-foldable {
   position: relative;
 }
 
@@ -92,7 +101,7 @@ article > :is(h1, h2, h3, h4, h5, h6) {
   }
 }
 
-article > :is(h1, h2, h3, h4, h5, h6):hover > .heading-fold,
+.heading-foldable:hover > .heading-fold,
 .heading-fold:focus-visible,
 .heading-collapsed > .heading-fold {
   opacity: 1;

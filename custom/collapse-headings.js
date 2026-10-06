@@ -31,27 +31,29 @@
     })
   }
 
+  // Headings and their paragraphs are siblings, but not always direct children
+  // of <article> (the theme wraps them in a div, and embeds have their own
+  // container), so each heading's parent is the container it folds within.
   function setup() {
-    document.querySelectorAll("article").forEach(function (article) {
-      if (article.closest(".popover")) return
-      Array.prototype.forEach.call(article.children, function (heading) {
-        if (!level(heading) || heading.querySelector(":scope > .heading-fold")) return
-        var button = document.createElement("button")
-        button.type = "button"
-        button.className = "heading-fold"
-        button.setAttribute("aria-label", "Collapse section")
-        button.setAttribute("aria-expanded", "true")
-        button.innerHTML = ARROW
-        button.addEventListener("click", function (e) {
-          e.preventDefault()
-          e.stopPropagation()
-          var collapsed = heading.classList.toggle("heading-collapsed")
-          button.setAttribute("aria-expanded", String(!collapsed))
-          button.setAttribute("aria-label", collapsed ? "Expand section" : "Collapse section")
-          refresh(article)
-        })
-        heading.insertBefore(button, heading.firstChild)
+    document.querySelectorAll("article :is(h1, h2, h3, h4, h5, h6)").forEach(function (heading) {
+      if (heading.closest(".popover") || heading.querySelector(":scope > .heading-fold")) return
+      var article = heading.parentElement
+      heading.classList.add("heading-foldable")
+      var button = document.createElement("button")
+      button.type = "button"
+      button.className = "heading-fold"
+      button.setAttribute("aria-label", "Collapse section")
+      button.setAttribute("aria-expanded", "true")
+      button.innerHTML = ARROW
+      button.addEventListener("click", function (e) {
+        e.preventDefault()
+        e.stopPropagation()
+        var collapsed = heading.classList.toggle("heading-collapsed")
+        button.setAttribute("aria-expanded", String(!collapsed))
+        button.setAttribute("aria-label", collapsed ? "Expand section" : "Collapse section")
+        refresh(article)
       })
+      heading.insertBefore(button, heading.firstChild)
     })
     reveal(location.hash)
   }
