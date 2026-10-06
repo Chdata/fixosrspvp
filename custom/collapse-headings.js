@@ -41,6 +41,7 @@
   // of <article> (the theme wraps them in a div, and embeds have their own
   // container), so each heading's parent is the container it folds within.
   function setup() {
+    var containers = new Set()
     document.querySelectorAll("article :is(h1, h2, h3, h4, h5, h6)").forEach(function (heading) {
       if (heading.closest(".popover") || heading.querySelector(":scope > .heading-fold")) return
       var article = heading.parentElement
@@ -56,8 +57,12 @@
         refresh(article)
       })
       heading.insertBefore(button, heading.firstChild)
-      setCollapsed(heading, false)
+      // Headings marked with <span class="collapsed"></span> in the note start
+      // collapsed.
+      setCollapsed(heading, !!heading.querySelector(".collapsed"))
+      containers.add(article)
     })
+    containers.forEach(refresh)
     reveal(location.hash)
   }
 
