@@ -40,3 +40,11 @@ html:root:root:root[saved-theme="dark"] {
 html:root[saved-theme="dark"] body p {
   color: var(--text-normal);
 }
+
+// Quartz puts a highlighted box behind internal links; show plain link text
+// like Obsidian does.
+html:root body a.internal {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+}
