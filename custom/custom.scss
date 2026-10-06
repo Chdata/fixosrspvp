@@ -76,6 +76,17 @@ html:root body .toc {
   margin-left: -0.25rem;
 }
 
+// Folders hidden from the explorer (the pages are still published). Quartz
+// may or may not add /index to a folder's path, so match both.
+.explorer-content li:has(> .folder-container:is(
+  [data-folderpath="pvp-analysis"],
+  [data-folderpath="pvp-analysis/index"],
+  [data-folderpath="pvp-problems"],
+  [data-folderpath="pvp-problems/index"]
+)) {
+  display: none;
+}
+
 // Collapsible headings (custom/collapse-headings.js). The fold arrow sits in
 // the left margin like Obsidian's and shows on hover, or always when collapsed.
 .heading-foldable {
@@ -93,18 +104,12 @@ html:root body .toc {
   border: none;
   background: none;
   color: var(--text-muted, var(--gray));
-  font-family: RSChatFont;
   font-size: 0.75em;
-  font-weight: normal;
-  line-height: 1;
   cursor: pointer;
   opacity: 0;
   transition: opacity 0.15s ease;
 
-  // ">" points down while open, right while collapsed.
-  span {
-    display: inline-block;
-    transform: rotate(90deg);
+  svg {
     transition: transform 0.15s ease;
   }
 }
@@ -115,8 +120,8 @@ html:root body .toc {
   opacity: 1;
 }
 
-.heading-collapsed > .heading-fold span {
-  transform: none;
+.heading-collapsed > .heading-fold svg {
+  transform: rotate(-90deg);
 }
 
 // Touch screens have no hover, so always show the arrows there.

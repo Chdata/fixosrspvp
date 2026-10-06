@@ -6,9 +6,10 @@
   window.__collapseHeadings = true
 
   var HEADING = /^H([1-6])$/
-  // The chat font only has ASCII, so the arrow is a ">" that CSS rotates to
-  // point down while the section is open.
-  var ARROW = '<span aria-hidden="true">&gt;</span>'
+  var ARROW =
+    '<svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" ' +
+    'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    '<polyline points="6 9 12 15 18 9"></polyline></svg>'
 
   function level(el) {
     var m = HEADING.exec(el.tagName)
