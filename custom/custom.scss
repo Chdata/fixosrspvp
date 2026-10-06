@@ -29,12 +29,12 @@ html:root:root:root {
 }
 
 // Body text color in dark mode. Quartz uses --darkgray; quartz-themes uses
-// --text-normal. Bold text uses the RuneScape light blue instead of the
+// --text-normal. Bold text uses a dusty steel blue instead of the
 // theme's red.
 html:root:root:root[saved-theme="dark"] {
   --darkgray: #e8d8a8;
   --text-normal: #e8d8a8;
-  --bold-color: #80c0ff;
+  --bold-color: #8fb3d6;
 }
 
 // The theme colors paragraphs with --text-muted instead of --text-normal;
