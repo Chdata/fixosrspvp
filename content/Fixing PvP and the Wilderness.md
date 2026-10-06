@@ -11,7 +11,9 @@ No, I don't!
 
 However, unfortunately, PvP is an extremely large and complicated topic.
 
-I'm working on shorter summaries of stuff, but for now, [[FixOSRSPvP]] is the most important thing.
+I'm working on shorter summaries of stuff, but for now, [[The FixOSRSPvP Plan]] is the most important thing for you to read.
+
+The page below is discussing the overall problems and proposed solutions.
 
 # PvP in OSRS is Dying.
 
@@ -50,6 +52,7 @@ The PvM side mainly just wants to not feel forced to engage with it.
 5. PvP is too complex for the playerbase to really discuss properly
 6. There is no simple magic band-aid solution that requires minimal dev time to fix PvP.
 7. [[The community is divided.]] Everyone is just [arguing past each other](https://en.wikipedia.org/wiki/Talking_past_each_other) en masse. Literally [like this](https://youtu.be/gYH0D52fXe8).
+8. [[We aren't addressing the core problems.]]
 
 Here's my take on the discussions everyone's been having. I've played Runescape since 2004. I have over a decade of experience in designing and coding multiplayer PvP game balance.
 
@@ -164,7 +167,7 @@ You will have to read more about them to get the specifics, or watch my video wh
 
 ### Extra Solutions
 
-These are standalone ideas that fix smaller problems of the PvP and the Wilderness. Although they don't address the biggest core issues of PvP and the Wilderness, they do tackle important long-standing problems.
+These are standalone ideas that fix other problems of the PvP and the Wilderness. Although they don't all address [[The real, core problems of the Wilderness]], they do tackle important long-standing problems.
 
 1. [[Rag Skull]]
 2. [[Removal of Trouver Parchments]]
@@ -224,13 +227,8 @@ In other cases, such as new PvP minigame ideas, I think we should not create mor
 
 # Thanks for Reading
 
-If you've made it this far or you're scrolling around the page, the two most important pages above are these ones:
+If you've made it this far or you're scrolling around the page, the most important page for you to read is this one:
 
-- [[Blessed Status]]
-- [[PvP Update Ranking Polls]]
-
-But honestly, I believe most of these changes are important to PvP as a whole, for both the Wilderness and safe PvP minigames.
-
-[[Contact Chdata]]
+[[The FixOSRSPvP Plan]]
 
 Chdata - OSRS PvP Design Portfolio - 2026
