@@ -85,6 +85,16 @@ jobs:
         working-directory: quartz-engine
         run: npx quartz build -d "$GITHUB_WORKSPACE/content"
 
+      - name: Add custom scripts
+        run: |
+          # Custom site JS (custom/*.js is not managed by GitHub Publish).
+          # data-persist keeps Quartz's SPA router from re-running it on
+          # every page change.
+          if [ -f custom/collapse-headings.js ]; then
+            cp custom/collapse-headings.js quartz-engine/public/collapse-headings.js
+            find quartz-engine/public -name '*.html' -exec sed -i 's#</head>#<script src="/fixosrspvp/collapse-headings.js" data-persist defer></script></head>#' {} +
+          fi
+
       - uses: actions/upload-pages-artifact@v5
         with:
           path: quartz-engine/public

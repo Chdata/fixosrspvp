@@ -56,8 +56,65 @@ html:root body ul.toc-content.overflow a {
 }
 
 // The TOC and explorer lists clip their overflow with no left padding, which
-// cuts off the left edge of the pixel font's glyphs.
+// cuts off the left edge of the pixel font's glyphs. The lists are width: 100%,
+// so border-box keeps the padding from adding a horizontal scrollbar.
 html:root body ul.toc-content.overflow,
 html:root body .explorer-content {
+  box-sizing: border-box;
   padding-left: 0.25rem;
+  overflow-x: hidden;
+}
+
+// Collapsible headings (custom/collapse-headings.js). The fold arrow sits in
+// the left margin like Obsidian's and shows on hover, or always when collapsed.
+article > :is(h1, h2, h3, h4, h5, h6) {
+  position: relative;
+}
+
+.heading-fold {
+  position: absolute;
+  top: 50%;
+  left: -1.1em;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--text-muted, var(--gray));
+  font-size: 0.75em;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+
+  svg {
+    transition: transform 0.15s ease;
+  }
+}
+
+article > :is(h1, h2, h3, h4, h5, h6):hover > .heading-fold,
+.heading-fold:focus-visible,
+.heading-collapsed > .heading-fold {
+  opacity: 1;
+}
+
+.heading-collapsed > .heading-fold svg {
+  transform: rotate(-90deg);
+}
+
+// Touch screens have no hover, so always show the arrows there.
+@media (hover: none) {
+  .heading-fold {
+    opacity: 1;
+  }
+}
+
+.heading-collapsed-content {
+  display: none !important;
+}
+
+// Quartz adds a "Link to original" link under every ![[embed]] (no setting
+// turns it off); Obsidian doesn't show one.
+html:root body a.transclude-src {
+  display: none;
 }
