@@ -6,10 +6,9 @@
   window.__collapseHeadings = true
 
   var HEADING = /^H([1-6])$/
-  var ARROW =
-    '<svg viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" ' +
-    'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
-    '<polyline points="6 9 12 15 18 9"></polyline></svg>'
+  // The chat font only has ASCII, so the arrow is a ">" that CSS rotates to
+  // point down while the section is open.
+  var ARROW = '<span aria-hidden="true">&gt;</span>'
 
   function level(el) {
     var m = HEADING.exec(el.tagName)
@@ -31,6 +30,13 @@
     })
   }
 
+  function setCollapsed(heading, collapsed) {
+    heading.classList.toggle("heading-collapsed", collapsed)
+    var button = heading.querySelector(":scope > .heading-fold")
+    button.setAttribute("aria-expanded", String(!collapsed))
+    button.setAttribute("aria-label", collapsed ? "Expand section" : "Collapse section")
+  }
+
   // Headings and their paragraphs are siblings, but not always direct children
   // of <article> (the theme wraps them in a div, and embeds have their own
   // container), so each heading's parent is the container it folds within.
@@ -42,18 +48,15 @@
       var button = document.createElement("button")
       button.type = "button"
       button.className = "heading-fold"
-      button.setAttribute("aria-label", "Collapse section")
-      button.setAttribute("aria-expanded", "true")
       button.innerHTML = ARROW
       button.addEventListener("click", function (e) {
         e.preventDefault()
         e.stopPropagation()
-        var collapsed = heading.classList.toggle("heading-collapsed")
-        button.setAttribute("aria-expanded", String(!collapsed))
-        button.setAttribute("aria-label", collapsed ? "Expand section" : "Collapse section")
+        setCollapsed(heading, !heading.classList.contains("heading-collapsed"))
         refresh(article)
       })
       heading.insertBefore(button, heading.firstChild)
+      setCollapsed(heading, false)
     })
     reveal(location.hash)
   }
@@ -72,12 +75,7 @@
       var pl = level(prev)
       if (!pl || pl >= l) continue
       l = pl
-      if (prev.classList.contains("heading-collapsed")) {
-        prev.classList.remove("heading-collapsed")
-        var b = prev.querySelector(":scope > .heading-fold")
-        b.setAttribute("aria-expanded", "true")
-        b.setAttribute("aria-label", "Collapse section")
-      }
+      if (prev.classList.contains("heading-collapsed")) setCollapsed(prev, false)
     }
     refresh(article)
   }
